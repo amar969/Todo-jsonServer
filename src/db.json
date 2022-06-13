@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "id": 1,
+      "title": "Code",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Eat",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Sleep",
+      "status": false
+    },
+    {
+      "title": "Gmail",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Richpanel",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Learn React",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Exercise ",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Walk",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Fruits",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
